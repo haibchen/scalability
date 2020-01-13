@@ -26,9 +26,11 @@ An updated and organized reading list for illustrating the patterns of scalable,
 - [Performance](#performance)
 - [Intelligence](#intelligence)
 - [Architecture](#architecture)
+- [Talk](#talk)
+
+
 - [Interview](#interview)
 - [Organization](#organization)
-- [Talk](#talk)
 - [Book](#book)
 
 ## Principle
